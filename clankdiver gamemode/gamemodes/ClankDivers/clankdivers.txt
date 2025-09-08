@@ -1,0 +1,6 @@
+"clankdivers"
+{
+    "title"      "ClankDivers"
+    "maps"       "^gm_flatgrass"
+    "menusystem" "1"
+}

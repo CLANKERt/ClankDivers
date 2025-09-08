@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+    "$basetexture" "clankdivers/armor"
+    "$translucent" 1
+}
