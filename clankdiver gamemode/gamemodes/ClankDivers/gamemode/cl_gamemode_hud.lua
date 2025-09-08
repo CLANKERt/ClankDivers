@@ -2,7 +2,7 @@ if CLIENT then
     ClankDivers = ClankDivers or {}
     ClankDivers.PlayersAlive = {}
 
-    ------------------------
+    -----------------------
     -- Receive alive players from server
     ------------------------
     net.Receive("ClankDivers_UpdatePlayersAlive", function()
